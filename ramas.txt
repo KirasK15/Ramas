@@ -6,3 +6,4 @@ Cambio feature2 1
 Cambio feature2 2
 Cambio develop 3
 Cambio develop 4
+Cambio release 1
